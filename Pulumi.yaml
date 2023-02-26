@@ -1,0 +1,6 @@
+name: finops-dash
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Dashbord Cost explorer cloud
